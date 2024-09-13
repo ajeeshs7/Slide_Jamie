@@ -71,12 +71,10 @@
     background: -webkit-radial-gradient(center center, farthest-side , #9993, transparent);
   }
 
-
-
-#audio {
+  #music-container {
     position: absolute;
-    bottom: 0;
-    right: 0;
+    top: 0;
+    left: 0;
   }
 
   @-webkit-keyframes spin {
