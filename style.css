@@ -71,10 +71,10 @@
     background: -webkit-radial-gradient(center center, farthest-side , #9993, transparent);
   }
 
-  #audio-container {
+  .audio-container {
     position: absolute;
-    bottom: 20; 
-    left: 20;  
+    top: 20px; 
+    left: 20px;  
 }
 
   #music-container {
