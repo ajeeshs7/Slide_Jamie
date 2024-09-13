@@ -77,11 +77,17 @@
     left: 0;
   }
 
-  #audio {
-     position: absolute;
-     top: 5;
-     left: 0;
+  <style>
+  .audio-player {
+    display: block;
+    margin: 0 auto;
   }
+</style>
+
+<audio class="audio-player" controls>
+  <source src="image/Jamie%20wanna%20be%20urs%20(1).mp3" type="audio/mp3">
+</audio>
+
 
   @-webkit-keyframes spin {
     from{
