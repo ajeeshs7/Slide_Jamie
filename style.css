@@ -77,9 +77,9 @@
     left: 0;
   }
 
-  .audio-container {
+  #audio-container {
     position: absolute;
-    bottom: 1; 
+    top: 1; 
     left: 1;  
 }
 
